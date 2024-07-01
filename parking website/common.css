@@ -1,0 +1,18 @@
+input {
+  padding: 0, 20px;
+  margin: 0, 10px;
+  width: fit-content;
+}
+.search,
+.search th,
+.search td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.logout {
+  display: block;
+  position: sticky;
+  top: 5px;
+  right: 5px;
+  margin-right: 900px;
+}
